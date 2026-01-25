@@ -1,0 +1,35 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. module: new_apikey_nopassword
+#: model:ir.model,name:new_apikey_nopassword.model_res_users_apikeys_description
+msgid "API Key Description"
+msgstr "Opis API ključa"
+
+#. module: new_apikey_nopassword
+#: code:addons/new_apikey_nopassword/models/res_users.py
+#, python-format
+msgid "API Key Ready"
+msgstr "API ključ spreman"
+
+#. module: new_apikey_nopassword
+#: code:addons/new_apikey_nopassword/models/res_users.py
+#, python-format
+msgid "This method can only be accessed over HTTP"
+msgstr "Ovoj metodi se može pristupiti samo preko HTTP-a"
+
+#. module: new_apikey_nopassword
+#: model:ir.model,name:new_apikey_nopassword.model_res_users
+msgid "User"
+msgstr "Korisnik"
+
+#. module: new_apikey_nopassword
+#: model:ir.model,name:new_apikey_nopassword.model_res_users_apikeys
+msgid "Users API Keys"
+msgstr "API ključevi korisnika"
