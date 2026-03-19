@@ -1,10 +1,12 @@
+# Copyright 2026 bring.out doo Sarajevo
+# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl)
 {
     'name': 'New API Key No Password',
-    'version': '1.0',
+    'version': '16.0.1.0.0',
     'summary': 'Remove password check for new API keys',
     'description': 'This module removes the password check when a user generates a new API key.',
-    'author': 'Ernad Husremović hernad@bring.out.ba',
-    'company': 'bring.out doo Sarajevo',
+    'author': 'bring.out doo Sarajevo',
+    'website': 'https://bring.out.ba',
     'license': 'AGPL-3',
     'depends': ['base'],
     'data': [],
