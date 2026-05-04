@@ -13,13 +13,13 @@ msgid "API Key Description"
 msgstr "Opis API ključa"
 
 #. module: new_apikey_nopassword
-#: code:addons/new_apikey_nopassword/models/res_users.py
+#: code:addons/new_apikey_nopassword/models/res_users.py:0
 #, python-format
 msgid "API Key Ready"
 msgstr "API ključ spreman"
 
 #. module: new_apikey_nopassword
-#: code:addons/new_apikey_nopassword/models/res_users.py
+#: code:addons/new_apikey_nopassword/models/res_users.py:0
 #, python-format
 msgid "This method can only be accessed over HTTP"
 msgstr "Ovoj metodi se može pristupiti samo preko HTTP-a"
